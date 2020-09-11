@@ -1,0 +1,15 @@
+SN,Name,Value
+1,Low Hue,94
+2,High Hue,155
+3,Low Saturation,91
+4,High Saturation,231
+5,Low Value,52
+6,High Value,207
+7,Gaussian Blur,True
+8,Kernel Size,11x11
+9,Remove Erodes,True
+10,Remove Erodes Iterations,2
+11,Dilate Mask,True
+12,Dilate Iterations,3
+13,Invert Mask,False
+14,Show Masked Image,True
